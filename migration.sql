@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS test_auto;
+
+CREATE TABLE test_auto (
+    id INT AUTO_INCREMENT PRIMARY KEY
+);
