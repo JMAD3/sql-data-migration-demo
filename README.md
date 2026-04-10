@@ -28,5 +28,5 @@ Completed:
 - Created a seed of bad data for legacy tables
 
 # Targets:
-Create migration queries
-Add data validation
+- Create migration queries
+- Add data validation
