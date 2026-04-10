@@ -1,4 +1,4 @@
-# SQL Data Migration and Validation Demo.
+# SQL Data Migration and Validation Demo
 
 # Work in progress
 
